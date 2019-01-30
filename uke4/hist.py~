@@ -1,0 +1,13 @@
+import skimage
+import numpy
+import sys
+from skimage import io,util,color
+
+def histogram(image, buckets):
+    ret [0]
+
+image = util.im_as_float(color.rgb2gray(io.imread(sys.argv[1])))
+
+bins = numpy.int(sys.argv[2])
+
+numpy.histogram([1,1,2,1,2,3,2,4,3,2,3,4,2,3],2)

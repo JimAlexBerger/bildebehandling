@@ -1,0 +1,11 @@
+from skimage import io
+
+
+def gamma(image, c, gamma):
+    
+
+
+image = io.imread("../Bilder/boy.tif")
+
+io.imshow(image)
+io.show()

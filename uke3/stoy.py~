@@ -1,0 +1,9 @@
+import skimage
+from skimage import io
+
+image = io.imread("../Bilder/image_resources/checkerboard1024.tif")
+
+skimage.util.random_noise(image)
+
+io.imshow(image)
+io.show()
