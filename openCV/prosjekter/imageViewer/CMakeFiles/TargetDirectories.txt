@@ -1,0 +1,3 @@
+/home/jim-alexander/Dokumenter/bildebehandling/openCV/prosjekter/imageViewer/CMakeFiles/rebuild_cache.dir
+/home/jim-alexander/Dokumenter/bildebehandling/openCV/prosjekter/imageViewer/CMakeFiles/DisplayImage.dir
+/home/jim-alexander/Dokumenter/bildebehandling/openCV/prosjekter/imageViewer/CMakeFiles/edit_cache.dir
